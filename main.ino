@@ -50,5 +50,5 @@ void loop() {
     Serial.println(currentValue);
     lastPrintTime = millis();
   }
-  // Your additional program logic goes here
+  // Rest of the loop code
 }
